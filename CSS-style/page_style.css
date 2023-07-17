@@ -1,0 +1,31 @@
+* {
+    background-color: blanchedalmond;
+    margin-left: auto;
+    
+}
+
+h1, h2 {
+    font-family: cursive;
+    text-align: center;
+    color: black;
+    text-decoration: underline;
+}
+
+
+
+p {
+    margin: 20px;
+    font-size: larger;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+   
+  }
+
+ol , ul {
+    font-size: larger;
+
+}
